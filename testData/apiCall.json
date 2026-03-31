@@ -1,0 +1,19 @@
+{
+    "postcallData" :{
+        "firstname" : "Prasanna",
+        "lastname" : "Venkatesan",
+        "totalprice" : 1010,
+        "depositpaid" : true,
+        "bookingdates" : { "checkin" : "2018-01-01", "checkout" : "2026-01-01"},
+        "additionalneeds" : "Breakfast Basic"
+    },
+
+    "putcallData" : {
+        "firstname" : "Mohan",
+        "lastname" : "Thiyagarajan",
+        "totalprice" : 2020,
+        "depositpaid" : true,
+        "bookingdates" : { "checkin" : "2018-01-01", "checkout" : "2026-01-01"},
+        "additionalneeds" : "Lunch Basic"
+    }
+}

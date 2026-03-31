@@ -1,0 +1,20 @@
+[
+    {
+    "fname":"Test1",
+    "mname":"Auto1",
+    "lname":"code1",
+    "email":"autocode_1@playwright.com"
+    },
+    {
+    "fname":"Test2",
+    "mname":"Auto2",
+    "lname":"code2",
+    "email":"autocode_2@playwright.com"
+    },
+    {
+    "fname":"Test3",
+    "mname":"Auto3",
+    "lname":"code3",
+    "email":"autocode_3@playwright.com"
+    }
+]
