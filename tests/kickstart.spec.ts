@@ -4,7 +4,7 @@ test("Kick start with playwright", async ({page})=>{
     console.log("My First Test")
     await page.goto("https://www.google.com")
 
-})
+}) Test PR1
 */
 
 test("My 2nd Test with Playwright", async () =>{
